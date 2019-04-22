@@ -1,9 +1,13 @@
 import React, { Component } from "react";
 
 class Bottom extends Component {
-  state = {
-    widgetsCount: 10
-  };
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      widgetsCount: 10
+    };
+  }
 
   handleClick(ev) {
     ev.preventDefault();
