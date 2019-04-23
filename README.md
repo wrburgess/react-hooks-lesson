@@ -2,7 +2,7 @@
 
 ## Lab Prep
 
-- Clone the lesson repo into your Training Directory with `git clone https://github.com/wrburgess/react-hooks-lesson`
+- Clone the lesson repo into your Training Directory with `git clone https://github.com/wrburgess/react-hooks-lesson` (public) or `git clone git@github.com:wrburgess/react-hooks-lesson.git` (ssh)
 - Set your terminal to the new directory with `cd react-hooks-lesson`
 - Install the necessary packages with `npm install` or `npm i`
 - Open your editor in the directory with VS Code `code .` or Sublime `subl .`x
