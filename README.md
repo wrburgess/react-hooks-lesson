@@ -53,3 +53,4 @@
 
 - [Create React App - setup/bundling](https://github.com/facebook/create-react-app)
 - [Jest - testing](https://jestjs.io/)
+- [React Testing Library - test helper](https://github.com/kentcdodds/react-testing-library)
