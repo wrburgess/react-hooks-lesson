@@ -31,11 +31,11 @@
 
 1. Make sure your tests are passing with `npm run test`
 2. Open the file: `src/components/Bottom.js`
-3. Import the `React` and `useState` methods from the `react` module (see src/components/LeftSide.js, line 1)
-4. Convert the Bottom Component from a class component to a function component (see src/components/LeftSide.js line 3, RightSideRefactored.js line 3)
-5. Edit the Bottom Component to initialize state with the useState hook (see src/components/RightSideRefactored.js, line 4)
-6. Edit the results section to use a component variable without the `this` reference (see src/components/RightSideRefactored.js, line 13)
-7. Edit the `handleClick` function to increment the widgetsCount value using the hook (see src/components/RightSideRefactored.js, line 14)
+3. Import the `React` and `useState` methods from the `react` module (see `src/components/LeftSide.js`, line 1)
+4. Convert the Bottom Component from a class component to a function component (see `src/components/LeftSide.js` line 3, `RightSideRefactored.js` line 3)
+5. Edit the Bottom Component to initialize state with the useState hook (see `src/components/RightSideRefactored.js`, line 4)
+6. Edit the results section to use a component variable without the `this` reference (see `src/components/RightSideRefactored.js`, line 13)
+7. Edit the `handleClick` function to increment the widgetsCount value using the hook (see `src/components/RightSideRefactored.js`, line 14)
 8. a) Make sure your tests are passing with `npm run test`
 9. b) Make sure your refactoring works for users with `npm run start`
 
