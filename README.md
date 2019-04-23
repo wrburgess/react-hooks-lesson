@@ -5,7 +5,7 @@
 - Clone the lesson repo into your Training Directory with `git clone https://github.com/wrburgess/react-hooks-lesson` (public) or `git clone git@github.com:wrburgess/react-hooks-lesson.git` (ssh)
 - Set your terminal to the new directory with `cd react-hooks-lesson`
 - Install the necessary packages with `npm install` or `npm i`
-- Open your editor in the directory with VS Code `code .` or Sublime `subl .`x
+- Open your editor in the directory with VS Code `code .` or Sublime `subl .`
 - In your terminal, make sure your local server is running with `npm run start`
 - In your terminal, make sure your tests are working with `npm run test`. Press `a` to run all tests, if asked.
 
