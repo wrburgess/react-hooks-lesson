@@ -39,6 +39,10 @@
 8. a) Make sure your tests are passing with `npm run test`
 9. b) Make sure your refactoring works for users with `npm run start`
 
+## Slides
+
+- [react-hooks-lesson-slides](https://github.com/wrburgess/react-hooks-lesson/blob/master/react-hooks-lesson-slides.key) and click `Download`
+
 ## Other Resources
 
 - [reactjs.org - Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
